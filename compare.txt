@@ -1,0 +1,20 @@
+第01页：https://www.cnvd.org.cn/flaw/list?flag=true&numPerPage=10&offset=0&max=10
+...
+第10页：https://www.cnvd.org.cn/flaw/list?flag=true&numPerPage=10&offset=90&max=10
+第11页：https://www.cnvd.org.cn/flaw/list?flag=true&numPerPage=10&offset=100&max=10
+第12页：https://www.cnvd.org.cn/flaw/list?flag=true&numPerPage=10&offset=110&max=10
+...
+第20页：https://www.cnvd.org.cn/flaw/list?flag=true&numPerPage=10&offset=110&max=10
+...
+第17900页：https://www.cnvd.org.cn/flaw/list?flag=true&numPerPage=10&offset=178990&max=10
+第17901页：https://www.cnvd.org.cn/flaw/list?flag=true&numPerPage=10&offset=179000&max=10
+第17902页：https://www.cnvd.org.cn/flaw/list?flag=true&numPerPage=10&offset=179010&max=10
+
+analyse: https://www.cnvd.org.cn/flaw/list?flag=true&numPerPage=10&offset={(num-1)*10}&max=10
+
+
+__jsl_clearance_s=1664110558.654|0|IKKgD%2Bd1WoSl2wtnTIfjMt5c08g%3D;
+__jsluid_s=7a78311351b38108af268ca7a5ef378a;
+JSESSIONID=6C64BDAA7F3C356E1941569904083417;
+amp_adc4c4=HoT-wr0uJdVpU7YUVKQnC6...1gdqbfv9c.1gdqcakq8.0.0.0;
+amp_d915a9=e6KVbgNLHlMm8gy4Yb_oWR...1gdqbfvf4.1gdqcakrn.0.0.0
